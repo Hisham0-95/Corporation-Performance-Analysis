@@ -5,4 +5,5 @@ Power Bi (Power Query for preparing data, Advanced DAX to create measures and KP
 # Learned Skills:
 1- How to create Dynamic Titles for charts and cards <br>
 2- How to identify the right measures and KPIs for the over time analysis <br>
-3- How to use slicers to enhance interactive dashboard experience 
+3- How to use slicers to enhance interactive dashboard experience <br>
+4- Advanced DAX functions for dates
